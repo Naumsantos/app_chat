@@ -1,0 +1,28 @@
+body {
+  background-color: black;
+  color: #3c3;
+}
+
+.title {
+  text-align: center;
+  border-bottom: 1px solid #3c3;
+}
+
+input, button {
+  background-color: black;
+  border: 1px solid #3c3;
+}
+
+input {
+  width: 80%;
+}
+
+button {
+  width: 18%;
+}
+
+.container {
+  margin: 0 auto;
+  width: 80%;
+  border: 1px solid #3c3;
+}
