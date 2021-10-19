@@ -1,6 +1,9 @@
+* {
+  color: #3c3;
+}
+
 body {
   background-color: black;
-  color: #3c3;
 }
 
 .title {
