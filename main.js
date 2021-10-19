@@ -1,4 +1,4 @@
-const userName = "Goku";
+const userName = "Naum";
 
 document.getElementById("chat").addEventListener("submit", function(e){
   e.preventDefault();
@@ -10,7 +10,7 @@ document.getElementById("chat").addEventListener("submit", function(e){
   
   if(messageDiv.value == "!ola"){
     let response = "Tudo bem?";
-    messageBox.insertAdjacentHTML("beforeend", sendMessage("Naum", response));
+    messageBox.insertAdjacentHTML("beforeend", sendMessage("Goku", response));
   };
 
 
